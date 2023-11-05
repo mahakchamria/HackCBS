@@ -5,3 +5,4 @@ pypdf
 python-dotenv
 openai
 pypdf2
+hydralit
