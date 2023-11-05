@@ -1,0 +1,7 @@
+streamlit
+streamlit-chat
+langchain
+pypdf
+python-dotenv
+openai
+pypdf2
