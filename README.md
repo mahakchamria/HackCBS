@@ -4,7 +4,7 @@ This project is designed to help healthcare professionals provide expert guidanc
 ## Features
 -> AI diagnosis tool predicts disease based on your symptoms
 
--> A prescription validator whihc uses LLM to check if the medicines prescribed to ypu are suitable or not based on your medical records
+-> A prescription validator which uses LLM to check if the medicines prescribed to you are suitable or not based on your medical records
 
 -> Stores Electronic Health Records on TON
 
