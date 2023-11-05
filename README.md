@@ -1,20 +1,20 @@
 # HackCBS - MedChain
-## Problem Statement ##
+# Problem Statement #
 The healthcare industry is facing significant challenges in diagnosing diseases accurately and ensuring the appropriateness of prescribed treatments. Inaccurate diagnoses and prescriptions can lead to patient harm, increased healthcare costs, and the misuse of medical resources. Following are the common reasons for incorrect diagnosis.
 ->Limited Healthcare Resources
 ->1000:1 patient to doctor ratio 
 ->Expensive healthcare facilities
-## Idea Solution
+# Idea Solution
 This project is designed to help healthcare professionals provide expert guidance on the suitability of prescribed medications for individual patients, considering factors such as age, gender, and known allergies. It aims to streamline the process of assessing medication appropriateness, potential interactions, and presenting alternative options, all while prioritizing patient safety and well-being. We are using  
 
-## Features
-# AI diagnosis tool predicts disease based on your symptoms
+# Features
+## AI diagnosis tool predicts disease based on your symptoms
 Data Integration: Gather diverse patient data.
 Feature Engineering: Extract relevant features.
 Model Training: Train a machine learning model.
 Validation: Verify accuracy using metrics.
 
-# A prescription validator which uses LLM to check if the medicines prescribed to you are suitable or not based on your medical records
+## A prescription validator which uses LLM to check if the medicines prescribed to you are suitable or not based on your medical records
 Data Integration: Integrate with medication data.
 Input Processing: Create an input interface.
 Validation Rules: Define rules for the LLM.
