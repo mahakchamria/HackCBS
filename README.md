@@ -10,14 +10,20 @@ This project is designed to help healthcare professionals provide expert guidanc
 # Features
 ## AI diagnosis tool predicts disease based on your symptoms
 Data Integration: Gather diverse patient data.
+
 Feature Engineering: Extract relevant features.
+
 Model Training: Train a machine learning model.
+
 Validation: Verify accuracy using metrics.
 
 ## A prescription validator which uses LLM to check if the medicines prescribed to you are suitable or not based on your medical records
 Data Integration: Integrate with medication data.
+
 Input Processing: Create an input interface.
+
 Validation Rules: Define rules for the LLM.
+
 Customization: Allow for rule customization.
 
 
