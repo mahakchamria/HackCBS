@@ -40,6 +40,7 @@ python app.py
 
 ## PPT Link ##
 
+https://www.canva.com/design/DAFzRiuq3AI/oSSYTzbu6lE3H0fbNFDpUA/edit?utm_content=DAFzRiuq3AI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## Team member's details ## 
