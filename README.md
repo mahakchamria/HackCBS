@@ -45,7 +45,11 @@ https://www.canva.com/design/DAFzRiuq3AI/oSSYTzbu6lE3H0fbNFDpUA/edit?utm_content
 
 ## Team member's details ## 
 Team name: IDK_THE_IDE 
+
 Team College: Bennett University 
-Team Leader: Mahak Chamria 
+
+Team Leader: Mahak Chamria
+
 Team Member1: Vaishnavi Jadhav 
+
 Team Member2: Raj Laxmi Singh
