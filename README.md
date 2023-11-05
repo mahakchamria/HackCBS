@@ -3,7 +3,9 @@
 This project is designed to help healthcare professionals provide expert guidance on the suitability of prescribed medications for individual patients, considering factors such as age, gender, and known allergies. It aims to streamline the process of assessing medication appropriateness, potential interactions, and presenting alternative options, all while prioritizing patient safety and well-being.
 ## Features
 -> AI diagnosis tool predicts disease based on your symptoms
+
 -> A prescription validator whihc uses LLM to check if the medicines prescribed to ypu are suitable or not based on your medical records
+
 -> Stores Electronic Health Records on TON
 
 ## Getting Started
